@@ -1,5 +1,5 @@
 import React from 'react';
-    import { connect } from 'react-redux'
+import { connect } from 'react-redux'
 
 import {getUsers} from '../../redux/users/actions'
 import './style.css';
@@ -25,7 +25,7 @@ class ItemList extends React.Component{
 
 const mapStateToProps = (state) => ({
     items: state.users.items,
-    loaded: state.users.loaded,
+    loading: state.users.loading,
   })
   
   const mapDispatchToProps = (dispatch) => ({
