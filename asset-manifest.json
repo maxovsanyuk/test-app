@@ -1,5 +1,5 @@
 {
-  "main.css": "/test-app/static/css/main.6c16ab1f.chunk.css",
+  "main.css": "/test-app/static/css/main.673a36a6.chunk.css",
   "main.js": "/test-app/static/js/main.a6ade87a.chunk.js",
   "main.js.map": "/test-app/static/js/main.a6ade87a.chunk.js.map",
   "runtime~main.js": "/test-app/static/js/runtime~main.e9adfd5a.js",
@@ -8,9 +8,9 @@
   "static/js/2.1b13f9de.chunk.js": "/test-app/static/js/2.1b13f9de.chunk.js",
   "static/js/2.1b13f9de.chunk.js.map": "/test-app/static/js/2.1b13f9de.chunk.js.map",
   "index.html": "/test-app/index.html",
-  "precache-manifest.4b08be72758eabb875c72cdfbccf02a5.js": "/test-app/precache-manifest.4b08be72758eabb875c72cdfbccf02a5.js",
+  "precache-manifest.0497def3b4dfe220de82949bc434b1f9.js": "/test-app/precache-manifest.0497def3b4dfe220de82949bc434b1f9.js",
   "service-worker.js": "/test-app/service-worker.js",
   "static/css/2.3f9e7aef.chunk.css.map": "/test-app/static/css/2.3f9e7aef.chunk.css.map",
-  "static/css/main.6c16ab1f.chunk.css.map": "/test-app/static/css/main.6c16ab1f.chunk.css.map",
+  "static/css/main.673a36a6.chunk.css.map": "/test-app/static/css/main.673a36a6.chunk.css.map",
   "static/media/style.css": "/test-app/static/media/oboitut.com_1528317218.cdf1ae39.png"
 }
