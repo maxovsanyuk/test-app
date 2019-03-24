@@ -1,0 +1,62 @@
+.pagination{
+    margin-top: 5vh;
+}
+
+.pagination button{
+    padding: 15px;
+    background: rgba(255, 254, 254, 0.521);
+    border: .5px solid rgba(203, 207, 207, 0.541);
+    font-family: 'Patrick Hand', cursive;
+    font-size: 14px;
+    color: rgba(63, 66, 66, 0.849);
+    margin: .5px;
+}
+
+.pagination button:focus{
+    outline: transparent;
+}
+
+.pagination button:active{
+    background: rgba(156, 152, 152, 0.856);
+}
+
+.pagination button:hover{
+    cursor: pointer;
+    background: rgba(155, 168, 173, 0.507);
+    border-color: transparent;
+}
+
+.pagination button:active{
+    background: rgba(50, 52, 53, 0.507);
+}
+
+#prevBtn{
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+#prevBtn:hover{
+    background:rgba(49, 61, 102, 0.473);
+    border-color: transparent;
+    color: rgb(210, 215, 216);
+}
+
+#prevBtn:active{
+    background:rgba(174, 177, 187, 0.473);
+}
+
+#nextBtn{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+#nextBtn:hover{
+    background:rgba(49, 61, 102, 0.473);
+    border-color: transparent;
+    color: rgb(210, 215, 216);
+}
+
+#nextBtn:active{
+    background:rgba(174, 177, 187, 0.473);
+}
+
