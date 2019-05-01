@@ -40,12 +40,12 @@ self.__precacheManifest = [
     "url": "/static/js/main.ecf19266.chunk.js"
   },
   {
-    "revision": "7b20d39d1d00df3b4780f4ffe8a70e5d",
-    "url": "/static/media/thumb1.7b20d39d.png"
-  },
-  {
     "revision": "5b1dff311a31f40babd677aac93b53a3",
     "url": "/static/media/video-play-icon-transparent-1.5b1dff31.png"
+  },
+  {
+    "revision": "7b20d39d1d00df3b4780f4ffe8a70e5d",
+    "url": "/static/media/thumb1.7b20d39d.png"
   },
   {
     "revision": "8ba3391eb9f58ef83b959400b15a409b",
